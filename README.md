@@ -2,7 +2,7 @@
 
 My tf2 config that helped manage 60fps on my old potato laptop.<br>
 If you don't like your game looking like it was made for the PS2 skip the autoexec folder.<br>
-Feel free to change the key binds inside the class-specific configs as you desire.<br>
+Feel free to change the key binds inside the class-specific configs as you please.<br>
 
 ## Installation
 
