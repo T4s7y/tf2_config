@@ -10,3 +10,7 @@ To install copy the `.cfg` file you desire inside your `tf/cfg/` directory found
 
 
 If you're using mastercomfig create a subfolder called `overrides` inside the `tf/cfg/` directory and copy the files there.
+
+## Launch Options
+
+`-novid -nojoy -nosteamcontroller -nohltv -particles 1`
